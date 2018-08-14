@@ -2,15 +2,13 @@
 
 Visualize your personal netflix statistics, a small sample project utilizing *new features* found in Java 8, 9 and 10. 
 
-Before you ask, no, I did not accumulate all those hours and episodes on my own. While the viewing history of subaccounts is seperated some people tend to use the service utilizing my profile ;). 
+Before you ask, no, I did not accumulate all those hours and episodes on my own. While the viewing history of sub accounts is seperated some people tend to use the service utilizing my profile. 
 
 If you create your own graphics and stumble upon a great looking color theme feel free to send me a message and I'll add a small collection of presets. 
 
 ## Sample Output
 
 ![netflixinfographics](https://user-images.githubusercontent.com/9025925/44119605-05d28f44-a01a-11e8-9e02-7d381b2d6ff7.png)
-
-
 
 ## Usage
 
