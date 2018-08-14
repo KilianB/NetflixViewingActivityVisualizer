@@ -82,7 +82,9 @@ After a few seconds the infographics should be generated.
 ## Compile yourself 
 
 
-If you wish to modify the code go ahead and clone the repository. `mvn package` will create binaries and the jar file. 
+If you wish to modify the code go ahead and clone the repository 
+`git clone https://github.com/KilianB/NetflixViewingActivityVisualizer.git`.
+`mvn package` will run the tests compile classes and bundle the binaries in the distribution.zip. 
 
 
 ## Data Accuracy
