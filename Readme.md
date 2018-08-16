@@ -156,4 +156,4 @@ Individual authors :
 - <a href="https://www.flaticon.com/authors/ocha" title="OCHA">OCHA</a>
 - <a href="https://www.flaticon.com/authors/alessio-atzeni" title="Alessio Atzeni">Alessio Atzeni</a>.
 
-The basic theme and layout is based on a blog post by<a href="https://www.r-bloggers.com/r-how-to-layout-and-design-an-infographic/">Al-Ahmadgaid Asaad</a>.
+The basic theme and layout is based on a blog post by <a href="https://www.r-bloggers.com/r-how-to-layout-and-design-an-infographic/">Al-Ahmadgaid Asaad</a>.
