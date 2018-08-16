@@ -68,28 +68,13 @@ summaryColor <- "#CA8B01"
 #Infographics header text
 infoColor <- "#A9A8A7"
 
-
-#Dark theme
-
-# #Plot and image color
-# primaryColor    <- "gray"
-# #Heatmap low range color
-# primaryColorBright <- "light gray" 
-# #Axis color and sections
-# secondaryColor  <- "light gray"
-# #Heading color
-# headingColor <- "white"
-# #Plot background color
-# backgroundColor <- "black"
-
 netflixCostPerMonth <-  (13.99 / 4)
 currency <- "€"
 averageCinemaTicket <- 8.63 #https://www.statista.com/statistics/382600/cinema-ticket-price-germany/
 
 # To calculate the cost/episode we need to know how how many months we are already paying
-# 
+# TRUE : Current. FALSE last mentioned in history file
 useCurrentDate <- TRUE #FALSE
-
 
 ###############################################################################################
 #                               Helper Function And Themes                                    #
