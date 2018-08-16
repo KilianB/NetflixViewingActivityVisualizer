@@ -143,7 +143,7 @@ The interesting stuff happens in the gigantic blob <a href="src/main/java/com/gi
 I have no idea how to use R. Everything in the R file should not be considered good coding. I am aware of the glitches in `gridTextMulticolor`. I just wrote it to be good enough for the use cases I encountered. 
 
 
-## License
+## License & Credit 
 
 The project is licensed under <a href="">GPLv3</a>.
 Icons used were downloaded from <a href="https://www.flaticon.com">flaticon</a> and <a href="freepik.com">freepik</a> and are licensed
@@ -156,4 +156,4 @@ Individual authors :
 - <a href="https://www.flaticon.com/authors/ocha" title="OCHA">OCHA</a>
 - <a href="https://www.flaticon.com/authors/alessio-atzeni" title="Alessio Atzeni">Alessio Atzeni</a>.
 
-
+The basic theme and layout is based on a blog post by<a href="https://www.r-bloggers.com/r-how-to-layout-and-design-an-infographic/">Al-Ahmadgaid Asaad</a>.
